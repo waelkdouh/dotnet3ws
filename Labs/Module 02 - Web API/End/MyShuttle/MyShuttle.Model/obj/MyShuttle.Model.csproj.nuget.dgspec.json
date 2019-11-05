@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj": {}
+    "C:\\Users\\waekdo\\Desktop\\Dotnetws\\Labs\\Module 02 - Web API\\End\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj": {
+    "C:\\Users\\waekdo\\Desktop\\Dotnetws\\Labs\\Module 02 - Web API\\End\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj",
+        "projectUniqueName": "C:\\Users\\waekdo\\Desktop\\Dotnetws\\Labs\\Module 02 - Web API\\End\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj",
         "projectName": "MyShuttle.Model",
-        "projectPath": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj",
+        "projectPath": "C:\\Users\\waekdo\\Desktop\\Dotnetws\\Labs\\Module 02 - Web API\\End\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj",
         "packagesPath": "C:\\Users\\waekdo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Model\\obj\\",
+        "outputPath": "C:\\Users\\waekdo\\Desktop\\Dotnetws\\Labs\\Module 02 - Web API\\End\\MyShuttle\\MyShuttle.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

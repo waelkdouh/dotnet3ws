@@ -8187,11 +8187,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.API\\MyShuttle.API.csproj",
+      "projectUniqueName": "C:\\Users\\waekdo\\Desktop\\Dotnetws\\Labs\\Module 02 - Web API\\End\\MyShuttle\\MyShuttle.API\\MyShuttle.API.csproj",
       "projectName": "MyShuttle.API",
-      "projectPath": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.API\\MyShuttle.API.csproj",
+      "projectPath": "C:\\Users\\waekdo\\Desktop\\Dotnetws\\Labs\\Module 02 - Web API\\End\\MyShuttle\\MyShuttle.API\\MyShuttle.API.csproj",
       "packagesPath": "C:\\Users\\waekdo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.API\\obj\\",
+      "outputPath": "C:\\Users\\waekdo\\Desktop\\Dotnetws\\Labs\\Module 02 - Web API\\End\\MyShuttle\\MyShuttle.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8210,11 +8210,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Data\\MyShuttle.Data.csproj": {
-              "projectPath": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Data\\MyShuttle.Data.csproj"
+            "C:\\Users\\waekdo\\Desktop\\Dotnetws\\Labs\\Module 02 - Web API\\End\\MyShuttle\\MyShuttle.Data\\MyShuttle.Data.csproj": {
+              "projectPath": "C:\\Users\\waekdo\\Desktop\\Dotnetws\\Labs\\Module 02 - Web API\\End\\MyShuttle\\MyShuttle.Data\\MyShuttle.Data.csproj"
             },
-            "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj": {
-              "projectPath": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj"
+            "C:\\Users\\waekdo\\Desktop\\Dotnetws\\Labs\\Module 02 - Web API\\End\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj": {
+              "projectPath": "C:\\Users\\waekdo\\Desktop\\Dotnetws\\Labs\\Module 02 - Web API\\End\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj"
             }
           }
         }

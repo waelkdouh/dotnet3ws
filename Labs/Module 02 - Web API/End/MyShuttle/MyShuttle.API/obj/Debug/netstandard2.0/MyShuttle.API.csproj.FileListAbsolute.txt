@@ -1,0 +1,13 @@
+C:\Users\waekdo\Desktop\Dotnetws\Labs\Module 02 - Web API\End\MyShuttle\MyShuttle.API\bin\Debug\netstandard2.0\MyShuttle.API.deps.json
+C:\Users\waekdo\Desktop\Dotnetws\Labs\Module 02 - Web API\End\MyShuttle\MyShuttle.API\bin\Debug\netstandard2.0\MyShuttle.API.dll
+C:\Users\waekdo\Desktop\Dotnetws\Labs\Module 02 - Web API\End\MyShuttle\MyShuttle.API\bin\Debug\netstandard2.0\MyShuttle.API.pdb
+C:\Users\waekdo\Desktop\Dotnetws\Labs\Module 02 - Web API\End\MyShuttle\MyShuttle.API\bin\Debug\netstandard2.0\MyShuttle.Data.dll
+C:\Users\waekdo\Desktop\Dotnetws\Labs\Module 02 - Web API\End\MyShuttle\MyShuttle.API\bin\Debug\netstandard2.0\MyShuttle.Model.dll
+C:\Users\waekdo\Desktop\Dotnetws\Labs\Module 02 - Web API\End\MyShuttle\MyShuttle.API\bin\Debug\netstandard2.0\MyShuttle.Data.pdb
+C:\Users\waekdo\Desktop\Dotnetws\Labs\Module 02 - Web API\End\MyShuttle\MyShuttle.API\bin\Debug\netstandard2.0\MyShuttle.Model.pdb
+C:\Users\waekdo\Desktop\Dotnetws\Labs\Module 02 - Web API\End\MyShuttle\MyShuttle.API\obj\Debug\netstandard2.0\MyShuttle.API.csprojAssemblyReference.cache
+C:\Users\waekdo\Desktop\Dotnetws\Labs\Module 02 - Web API\End\MyShuttle\MyShuttle.API\obj\Debug\netstandard2.0\MyShuttle.API.AssemblyInfoInputs.cache
+C:\Users\waekdo\Desktop\Dotnetws\Labs\Module 02 - Web API\End\MyShuttle\MyShuttle.API\obj\Debug\netstandard2.0\MyShuttle.API.AssemblyInfo.cs
+C:\Users\waekdo\Desktop\Dotnetws\Labs\Module 02 - Web API\End\MyShuttle\MyShuttle.API\obj\Debug\netstandard2.0\MyShuttle.API.csproj.CopyComplete
+C:\Users\waekdo\Desktop\Dotnetws\Labs\Module 02 - Web API\End\MyShuttle\MyShuttle.API\obj\Debug\netstandard2.0\MyShuttle.API.dll
+C:\Users\waekdo\Desktop\Dotnetws\Labs\Module 02 - Web API\End\MyShuttle\MyShuttle.API\obj\Debug\netstandard2.0\MyShuttle.API.pdb

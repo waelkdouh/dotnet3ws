@@ -1,0 +1,36 @@
+C:\Users\waekdo\Desktop\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.ComponentsLibrary\bin\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.deps.json
+C:\Users\waekdo\Desktop\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.ComponentsLibrary\bin\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.dll
+C:\Users\waekdo\Desktop\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.ComponentsLibrary\bin\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\waekdo\Desktop\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.csprojAssemblyReference.cache
+C:\Users\waekdo\Desktop\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\staticwebassets\BlazingPizza.ComponentsLibrary.StaticWebAssets.Manifest.cache
+C:\Users\waekdo\Desktop\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\staticwebassets\BlazingPizza.ComponentsLibrary.StaticWebAssets.xml
+C:\Users\waekdo\Desktop\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.RazorComponent.input.cache
+C:\Users\waekdo\Desktop\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\RazorDeclaration\Map\Map.razor.g.cs
+C:\Users\waekdo\Desktop\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\RazorDeclaration\BlazingPizza.ComponentsLibrary.dll
+C:\Users\waekdo\Desktop\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.TagHelpers.input.cache
+C:\Users\waekdo\Desktop\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.TagHelpers.output.cache
+C:\Users\waekdo\Desktop\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.RazorCoreGenerate.cache
+C:\Users\waekdo\Desktop\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\Razor\Map\Map.razor.g.cs
+C:\Users\waekdo\Desktop\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.AssemblyInfoInputs.cache
+C:\Users\waekdo\Desktop\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.AssemblyInfo.cs
+C:\Users\waekdo\Desktop\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.RazorTargetAssemblyInfo.cache
+C:\Users\waekdo\Desktop\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.dll
+C:\Users\waekdo\Desktop\blazor-workshop\save-points\01-Components-and-layout\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\waekdo\OneDrive - Microsoft\Consulting\WorkShops\Bentley\Labs\Module 03 - Blazor\Components and Layouts\End\BlazingPizza.ComponentsLibrary\bin\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.deps.json
+C:\Users\waekdo\OneDrive - Microsoft\Consulting\WorkShops\Bentley\Labs\Module 03 - Blazor\Components and Layouts\End\BlazingPizza.ComponentsLibrary\bin\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.dll
+C:\Users\waekdo\OneDrive - Microsoft\Consulting\WorkShops\Bentley\Labs\Module 03 - Blazor\Components and Layouts\End\BlazingPizza.ComponentsLibrary\bin\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\waekdo\OneDrive - Microsoft\Consulting\WorkShops\Bentley\Labs\Module 03 - Blazor\Components and Layouts\End\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.csprojAssemblyReference.cache
+C:\Users\waekdo\OneDrive - Microsoft\Consulting\WorkShops\Bentley\Labs\Module 03 - Blazor\Components and Layouts\End\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\staticwebassets\BlazingPizza.ComponentsLibrary.StaticWebAssets.Manifest.cache
+C:\Users\waekdo\OneDrive - Microsoft\Consulting\WorkShops\Bentley\Labs\Module 03 - Blazor\Components and Layouts\End\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\staticwebassets\BlazingPizza.ComponentsLibrary.StaticWebAssets.xml
+C:\Users\waekdo\OneDrive - Microsoft\Consulting\WorkShops\Bentley\Labs\Module 03 - Blazor\Components and Layouts\End\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.RazorComponent.input.cache
+C:\Users\waekdo\OneDrive - Microsoft\Consulting\WorkShops\Bentley\Labs\Module 03 - Blazor\Components and Layouts\End\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\RazorDeclaration\Map\Map.razor.g.cs
+C:\Users\waekdo\OneDrive - Microsoft\Consulting\WorkShops\Bentley\Labs\Module 03 - Blazor\Components and Layouts\End\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\RazorDeclaration\BlazingPizza.ComponentsLibrary.dll
+C:\Users\waekdo\OneDrive - Microsoft\Consulting\WorkShops\Bentley\Labs\Module 03 - Blazor\Components and Layouts\End\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.TagHelpers.input.cache
+C:\Users\waekdo\OneDrive - Microsoft\Consulting\WorkShops\Bentley\Labs\Module 03 - Blazor\Components and Layouts\End\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.TagHelpers.output.cache
+C:\Users\waekdo\OneDrive - Microsoft\Consulting\WorkShops\Bentley\Labs\Module 03 - Blazor\Components and Layouts\End\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.RazorCoreGenerate.cache
+C:\Users\waekdo\OneDrive - Microsoft\Consulting\WorkShops\Bentley\Labs\Module 03 - Blazor\Components and Layouts\End\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\Razor\Map\Map.razor.g.cs
+C:\Users\waekdo\OneDrive - Microsoft\Consulting\WorkShops\Bentley\Labs\Module 03 - Blazor\Components and Layouts\End\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.AssemblyInfoInputs.cache
+C:\Users\waekdo\OneDrive - Microsoft\Consulting\WorkShops\Bentley\Labs\Module 03 - Blazor\Components and Layouts\End\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.AssemblyInfo.cs
+C:\Users\waekdo\OneDrive - Microsoft\Consulting\WorkShops\Bentley\Labs\Module 03 - Blazor\Components and Layouts\End\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.RazorTargetAssemblyInfo.cache
+C:\Users\waekdo\OneDrive - Microsoft\Consulting\WorkShops\Bentley\Labs\Module 03 - Blazor\Components and Layouts\End\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.dll
+C:\Users\waekdo\OneDrive - Microsoft\Consulting\WorkShops\Bentley\Labs\Module 03 - Blazor\Components and Layouts\End\BlazingPizza.ComponentsLibrary\obj\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.pdb
