@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.API\\MyShuttle.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.API\\MyShuttle.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.API\\MyShuttle.API.csproj",
+        "projectName": "MyShuttle.API",
+        "projectPath": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.API\\MyShuttle.API.csproj",
+        "packagesPath": "C:\\Users\\waekdo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\waekdo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Data\\MyShuttle.Data.csproj": {
+                "projectPath": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Data\\MyShuttle.Data.csproj"
+              },
+              "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj": {
+                "projectPath": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Data\\MyShuttle.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Data\\MyShuttle.Data.csproj",
+        "projectName": "MyShuttle.Data",
+        "projectPath": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Data\\MyShuttle.Data.csproj",
+        "packagesPath": "C:\\Users\\waekdo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\waekdo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj": {
+                "projectPath": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj",
+        "projectName": "MyShuttle.Model",
+        "projectPath": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj",
+        "packagesPath": "C:\\Users\\waekdo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\waekdo\\OneDrive - Microsoft\\Consulting\\WorkShops\\Asp.Net Core\\Labs\\Module 05 - Web API\\End\\MyShuttle\\MyShuttle.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\waekdo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
