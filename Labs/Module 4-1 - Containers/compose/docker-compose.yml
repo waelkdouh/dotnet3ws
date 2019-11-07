@@ -1,0 +1,17 @@
+version : '3'
+
+services:
+  demowebapp:
+    build: ./mywebapp 
+    ports:
+      - 80:80
+    depends_on:
+      - demowebapi
+  demowebapi:
+    build: ./mywebapi
+    ports:
+      - 9000:9000
+networks:
+  default:
+    external:
+      name: nat
